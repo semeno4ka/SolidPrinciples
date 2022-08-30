@@ -1,6 +1,7 @@
 package com.cydeo.solid.singleResponsibility.example.good;
 
-public class Manager {
+public class Manager {// EACH CLASS HAS IT"S OWN RESPONSIBILITY
+
     // managing and checking validation
 
     public static boolean validate(){
